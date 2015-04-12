@@ -13,7 +13,7 @@ public class MODULO1 {
     }
     static void mostrar(int num){
         for (int i=0;i<num;i++){
-            System.out.println("Módulo ejecutándose");
+            System.out.println("Módulo ejecutándose ");
         }
     }
 }

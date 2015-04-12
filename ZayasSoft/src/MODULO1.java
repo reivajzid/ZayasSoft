@@ -9,7 +9,7 @@ public class MODULO1 {
         num= escanea.nextInt();
         System.out.println("---------------------------");
         mostrar(num);
-        System.out.println("---------------1------------");
+        System.out.println("---------------11------------");
     }
     static void mostrar(int num){
         for (int i=0;i<num;i++){

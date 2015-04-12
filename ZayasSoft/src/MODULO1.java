@@ -5,15 +5,15 @@ public class MODULO1 {
         
     	int num;
         System.out.print("Introduzca un numero: ");
-        Scanner sc = new Scanner(System.in);
-        num= sc.nextInt();
+        Scanner escanea = new Scanner(System.in);
+        num= escanea.nextInt();
         System.out.println("---------------------------");
         mostrar(num);
         System.out.println("---------------------------");
     }
     static void mostrar(int num){
         for (int i=0;i<num;i++){
-            System.out.println("Módulo ejecutándose ");
+            System.out.println("MÃ³dulo ejecutÃ¡ndose ");
         }
     }
 }
